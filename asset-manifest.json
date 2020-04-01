@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/seenu1688/covid19/static/css/main.4f6da0c0.chunk.css",
+    "main.js": "/seenu1688/covid19/static/js/main.bd636f4e.chunk.js",
+    "main.js.map": "/seenu1688/covid19/static/js/main.bd636f4e.chunk.js.map",
+    "runtime-main.js": "/seenu1688/covid19/static/js/runtime-main.fb0d6d11.js",
+    "runtime-main.js.map": "/seenu1688/covid19/static/js/runtime-main.fb0d6d11.js.map",
+    "static/js/2.d4fc3b61.chunk.js": "/seenu1688/covid19/static/js/2.d4fc3b61.chunk.js",
+    "static/js/2.d4fc3b61.chunk.js.map": "/seenu1688/covid19/static/js/2.d4fc3b61.chunk.js.map",
+    "index.html": "/seenu1688/covid19/index.html",
+    "precache-manifest.899ee16067d157f23de1de03196a36e3.js": "/seenu1688/covid19/precache-manifest.899ee16067d157f23de1de03196a36e3.js",
+    "service-worker.js": "/seenu1688/covid19/service-worker.js",
+    "static/css/main.4f6da0c0.chunk.css.map": "/seenu1688/covid19/static/css/main.4f6da0c0.chunk.css.map",
+    "static/js/2.d4fc3b61.chunk.js.LICENSE.txt": "/seenu1688/covid19/static/js/2.d4fc3b61.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/seenu1688/covid19/static/media/archia-thin-webfont.e88f1cf3.woff2",
+    "static/media/icon.png": "/seenu1688/covid19/static/media/icon.0700110f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0d6d11.js",
+    "static/js/2.d4fc3b61.chunk.js",
+    "static/css/main.4f6da0c0.chunk.css",
+    "static/js/main.bd636f4e.chunk.js"
+  ]
+}
